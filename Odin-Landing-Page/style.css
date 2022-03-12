@@ -41,6 +41,7 @@ a:last-child {
     gap: 10px;
     padding-left: 100px;
     padding-right: 100px;
+    height: 600px
 }
 #main-message img {
     width: 33%;
@@ -67,6 +68,7 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 600px;
 }
 #info-header {
     font-size: 36px;
@@ -79,7 +81,6 @@ button {
     align-items: center;
     font-size: 18px;
     color: #1F2937;
-    height: 400px;
     gap: 30px;
 }
 .description {
@@ -94,4 +95,22 @@ button {
     border-radius: 10%;
     height: 200px;
     width: 200px;
+}
+#testimonial {
+    background-color:#E5E7EB;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+blockquote {
+    font-size: 36px;
+    font-style: oblique;
+    color: #1F2937;
+}
+figcaption {
+    color: #1F2937;
+    font-size: 36px;
+    margin-left: 800px;
 }
