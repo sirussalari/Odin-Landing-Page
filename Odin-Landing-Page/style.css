@@ -143,3 +143,10 @@ figcaption {
     border-color:#F9FAF8;
     border-radius: 5%;
 }
+#footer {
+    background-color: #1F2937;
+    color:#E5E7EB;
+    font-size: 18px;
+    text-align: center;
+    height: 60px;
+}
