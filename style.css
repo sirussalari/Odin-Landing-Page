@@ -41,11 +41,12 @@ a:last-child {
     gap: 10px;
     padding-left: 100px;
     padding-right: 100px;
-    height: 600px
+    height: 600px;
+    width: 100%;
 }
 #main-message img {
-    width: 33%;
-    height: auto;
+   height: 100%;
+   width: auto;
 }
 #message h1 {
     font-size: 48px;
